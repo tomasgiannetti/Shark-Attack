@@ -39,5 +39,13 @@ Please see their website (https://www.sharkattackfile.net/index.htm) for more de
 With the analysis it can be concluded that most incidents with deaths happen to men countries by order: Australia, USA, South Africa, Papua New Guinea and Mexico.
 Provoked deaths caused almost exclusively by men in Australia, USA and Mexico, with a very low percentage of woman suffering from it.
 
+|Country  | Total s/ provocar  | Mortes s/ provocar Homens |Mortes s/ provocar Mulheres|Total provocar|Mortes ao provocar|Homens	Mortes ao provocar Mulheres|
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+|Australia| 183.0 | 171 | 12.0 |	1.0 |	1.0 |	0.0 |
+|USA| 	90.0|	81 | 9.0 |	2.0 |	2.0 |	0.0 |
+|South Africa| 68.0|	65 |	3.0 |	0.0 |	0.0 |	0.0 |
+|Papua New Guinea| 26.0|	23 |	3.0 |	0.0 |	0.0 |	0.0 |
+|Meximo| 22.0|	17|	5.0 |	1.0 |	1.0 |	0.0 |
+
 # Contact
 
