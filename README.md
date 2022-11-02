@@ -27,7 +27,7 @@ Python
 
 Pandas
 
-Rejects
+Rejex
 
 
 # Project Description
