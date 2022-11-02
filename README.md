@@ -38,7 +38,8 @@ Please see their website (https://www.sharkattackfile.net/index.htm) for more de
 
 
 # Conclusion
-With the analysis it can be concluded that most incidents with deaths happen to men, and that provoked deaths are also caused almost exclusively by men, with a very low percentage of woman suffering from it.
+With the analysis it can be concluded that most incidents with deaths happen to men countries by order: Australia, USA, South Africa, Papua New Guinea and Mexico.
+Provoked deaths caused almost exclusively by men in Australia, USA and Mexico, with a very low percentage of woman suffering from it.
 
 # Contact
 
