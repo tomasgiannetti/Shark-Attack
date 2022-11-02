@@ -7,9 +7,15 @@ Clean data and make analysis about the deaths starting from 1900 provoked and un
 
 # Methods
 
+Removing empty and null rows by using masks
+Renaming columns
+Removing nulls in columns that interfere in the analysis
+Cleaning columns which interfere in the analysis by using subs
 Filtering
+Rejects
+
 Grouping
-Data Cleaning
+
 
 
 # Technologies
