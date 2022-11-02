@@ -17,8 +17,6 @@ Cleaning columns which interfere in the analysis by using subs
 
 Filtering
 
-Rejects
-
 Grouping
 
 
