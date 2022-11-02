@@ -45,7 +45,7 @@ Provoked deaths caused almost exclusively by men in Australia, USA and Mexico, w
 |USA| 	90.0|	81 | 9.0 |	2.0 |	2.0 |	0.0 |
 |South Africa| 68.0|	65 |	3.0 |	0.0 |	0.0 |	0.0 |
 |Papua New Guinea| 26.0|	23 |	3.0 |	0.0 |	0.0 |	0.0 |
-|Meximo| 22.0|	17|	5.0 |	1.0 |	1.0 |	0.0 |
+|Mexico| 22.0|	17|	5.0 |	1.0 |	1.0 |	0.0 |
 
 # Contact
 
