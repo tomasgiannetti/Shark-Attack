@@ -27,7 +27,7 @@ Python
 
 Pandas
 
-Rejex
+Regex
 
 
 # Project Description
