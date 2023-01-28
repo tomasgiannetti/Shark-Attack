@@ -2,7 +2,7 @@
  
 Project status: Completed
 
-#Project objective
+# Project objective
 Clean data and make analysis about the deaths starting from 1900 provoked and unprovoked by country and by sex (for visuzalization purposes the analysis is of the first 5 countries with more deaths in these cases)
 
 # Methods
